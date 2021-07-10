@@ -1,0 +1,33 @@
+
+
+body {background-color:#EAF6F6}
+
+/* dekh style css code h and isme apan head p use kiye taki sab p changes aaye
+and then apan body colour change kiya background color dal k y curly braket p hoga
+mns{ispe} */
+
+
+hr{ width:5%;
+  border-style: none;
+ border-top-style:dotted;
+ border-color: grey;
+ border-width: 5px;}
+
+ h1{color: #66BFBF
+
+
+
+ }
+
+h3{color:#66BFBF
+
+
+
+}
+
+h2 {color:#66BFBF
+
+}
+
+ /* dekh aise hi sabka style isme set karte h n same above mention steps
+ follow karte h:  */
